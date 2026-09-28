@@ -1,0 +1,13 @@
+.env
+.venv/
+__pycache__/
+# временные / старые файлы
+generate_old.py
+generate2.py
+generate2web.py.bak
+raw_output_backend_core.txt
+generate_backend_core.log
+.frontend_stage_1.stream
+
+# macOS
+.DS_Store
